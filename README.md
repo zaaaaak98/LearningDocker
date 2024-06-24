@@ -7,3 +7,5 @@ Helpful docker commands :
 - docker ps : shows any running containers
 
 - docker ps -a : shows any containers that have been run previously, and shows how recently they were run
+
+- docker images : shows any images that have been downloaded to local docker host from docker hub
